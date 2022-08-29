@@ -1,56 +1,39 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Movie App
 
-# Project Name
+> This is website where you can show tv shows and their information and interact by like your favorite tv shows and leave a comment .
 
-> Description the project.
-
+![screenshot](./screenshot.png)
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
+- JAVASCRIPT
+- WEBPACK
+- Jest
 
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+## Live demo
+[Live Demo Link](https://happy-benz-cf179a.netlify.app/)
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
+## To run the website locally follow the following steps:
 
 ### Setup
-
+- clone the project to your local machine
 ### Install
+- in the root directory run the command ** npm install ** to install the dependencies
 
 ### Usage
-
-### Run tests
-
-### Deployment
+    in the root directory run the command " npm start " to see the website in the browser
+    
 
 
+👤 *Kalolo Chola Lemba*
 
-## Authors
+- GitHub: [@KayLemba ](https://github.com/KayLemba)
+- Twitter: [@King-Kaylo1 ](https://twitter.com/King_Kaylo1) 
+- LinkedIn: [@kalolo-lemba](https://www.linkedin.com/in/https://www.linkedin.com/in/kalolo-lemba-41a8339a/-41a8339a/)
 
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
@@ -61,15 +44,3 @@ Feel free to check the [issues page](../../issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
