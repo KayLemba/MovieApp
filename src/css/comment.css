@@ -13,7 +13,7 @@
 h2 {
   margin-left: 275px;
   padding-top: 30px;
-  color: #fff;
+  color: #9a0707;
   font-family: sans-serif;
 }
 
@@ -28,7 +28,7 @@ h2 {
   width: 70%;
   margin: 0 auto;
   text-align: left;
-  color: #fff;
+  color: #9a0707;
 }
 
 .popup-img {
@@ -42,12 +42,13 @@ h2 {
 .comments {
   margin-left: 90px;
   list-style-type: none;
-  color: #fff;
+  color: #9a0707;
 }
 
 .comment-title {
   margin-left: 90px;
   padding-top: 30px;
+  color: #9a0707;
 }
 
 #close-popup {
