@@ -1,0 +1,99 @@
+.movie-popup {
+  display: none;
+  background: #100f0f;
+  position: fixed;
+  z-index: 9999;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  overflow: auto;
+}
+
+h2 {
+  margin-left: 275px;
+  padding-top: 30px;
+  color: #9a0707;
+  font-family: sans-serif;
+}
+
+.movie-popup .popup-title {
+  text-align: center;
+  width: 100%;
+  margin: 20px 0;
+  color: rgb(171, 169, 169);
+}
+
+.movie-popup table {
+  width: 70%;
+  margin: 0 auto;
+  text-align: left;
+  color: #9a0707;
+}
+
+.popup-img {
+  display: block;
+  margin: 0 auto;
+  border-radius: 100%;
+  height: 40%;
+  width: 30%;
+}
+
+.comments {
+  margin-left: 90px;
+  list-style-type: none;
+  color: #9a0707;
+}
+
+.comment-title {
+  margin-left: 90px;
+  padding-top: 30px;
+  color: #9a0707;
+}
+
+#close-popup {
+  display: block;
+  width: 100%;
+  text-align: right;
+  cursor: pointer;
+  font-size: 18px;
+  font-weight: 900;
+  padding: 20px 30px 0 0;
+}
+
+.com-form {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  margin-bottom: 20px;
+  margin-left: 350px;
+}
+
+.com-form input {
+  width: 300px;
+  border: 2px solid #9a0707;
+  border-radius: 8px;
+  height: 35px;
+  padding-left: 10px;
+  outline: none;
+}
+
+.com-form button {
+  width: 10%;
+  border: 2px solid #9a0707;
+  border-radius: 8px;
+  height: 35px;
+  padding-left: 0;
+  outline: none;
+  box-shadow: 2px 2px 4px 0;
+  cursor: pointer;
+}
+
+.com-form textarea {
+  width: 300px;
+  height: 155px;
+  border: 2px solid #9a0707;
+  border-radius: 8px;
+  outline: none;
+  padding: 5px;
+}
