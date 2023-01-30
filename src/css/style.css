@@ -17,6 +17,10 @@ body {
   font-family: var(--main-font);
 }
 
+.img {
+  height: 12px;
+}
+
 .navbar {
   display: flex;
   align-items: center;
@@ -127,8 +131,8 @@ footer {
 }
 
 .logo {
-  height: 50px;
-  width: 150px;
+  height: 70px;
+  width: 160px;
 }
 
 .link-logo {
