@@ -117,6 +117,7 @@ footer {
 .heart {
   width: 100px;
   height: 100px;
+  /* stylelint-disable-next-line declaration-colon-newline-after */
   background: url("https://cssanimation.rocks/images/posts/steps/heart.png")
     no-repeat;
   background-position: 0 0;
